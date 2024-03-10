@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="EclipseDocs" name="Eclipse Docs"
+                  start-page="Home.md">
+
+    <toc-element topic="Home.md"/>
+
+<!--    <toc-element topic="Building-Techniques.md">-->
+<!--        <toc-element topic="BuildingTis.md"  />-->
+<!--        <toc-element topic="Gearing.md"  />-->
+<!--        <toc-element topic="Joints.md"  />-->
+<!--        <toc-element topic="Pneumatics.md"  />-->
+<!--        <toc-element topic="Lifts.md"  />-->
+<!--        <toc-element topic="ShootingMechs.md"  />-->
+<!--    </toc-element>-->
+
+    <toc-element topic="General-Programming.md">
+        <toc-element topic="ProgrammingTips.md"/>
+        <toc-element topic="Drive-Controller.md"/>
+        <toc-element topic="Motor-Controllers.md"/>
+<!--        <toc-element topic="PID.md"/>-->
+<!--        <toc-element topic="AutoCreator.md" />-->
+<!--        <toc-element topic="Auton Functions.md"/>-->
+        <toc-element topic="Driver Control.md"/>
+        <toc-element topic="Defining Elements.md"/>
+        <toc-element topic="Pre-Auton Functions.md"/>
+<!--        <toc-element topic="Autonomous Coding.md"/>-->
+
+    </toc-element>
+
+
+
+
+
+
+
+
+
+
+
+</instance-profile>
