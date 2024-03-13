@@ -38,15 +38,7 @@ else if (Controller.ButtonR2.pressing()){
 
 ```
 
-as an alternative to the 2 button toggle you can use a 1 button toggle if you need more buttons for other contols 
 
-```C++ 
-// 241E 1 Button Toggle 
-
-
-
-
-```
 
 
 
