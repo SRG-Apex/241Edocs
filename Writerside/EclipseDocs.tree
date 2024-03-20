@@ -25,9 +25,9 @@
 <!--        <toc-element topic="Auton Functions.md"/>-->
         <toc-element topic="Driver Control.md"/>
         <toc-element topic="Defining Elements.md"/>
-        <toc-element topic="Pre-Auton Functions.md"/>
+<!--        <toc-element topic="Pre-Auton Functions.md"/>-->
 <!--        <toc-element topic="Autonomous Coding.md"/>-->
-
+        <toc-element topic="VexcodeTemplate.md"/>
     </toc-element>
 
 

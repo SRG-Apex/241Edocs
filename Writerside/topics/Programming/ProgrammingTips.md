@@ -1,8 +1,8 @@
 # Programming Tips
 
-While certain things arent required, they are a good practice for documentation and note keeping 
+While certain things aren't required, they are a good practice for documentation and note keeping 
 
-For example you should include a header to know when the last modification was to make sure you have the right version 
+For example, you should include a header to know when the last modification was to make sure you have the right version 
 
 ```C++
 /*----------------------------------------------------------------------------*/
